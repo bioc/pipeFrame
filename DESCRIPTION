@@ -42,7 +42,8 @@ Suggests:
     BiocManager,
     knitr,
     rtracklayer,
-    testthat
+    testthat,
+    BSgenome.Hsapiens.UCSC.hg19
 RoxygenNote: 7.0.2
 VignetteBuilder: knitr
 biocViews: Software, Infrastructure, WorkflowStep
