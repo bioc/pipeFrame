@@ -1,5 +1,5 @@
 #' @importFrom BSgenome getBSgenome
-#' @importFrom GenomeInfoDb seqnames
+#' @importFrom Seqinfo seqnames
 #' @importFrom Biostrings masks
 #' @importFrom Biostrings DNAStringSet
 #' @importFrom Biostrings injectHardMask
